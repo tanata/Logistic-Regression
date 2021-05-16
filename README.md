@@ -1,4 +1,4 @@
-# Logistic-Regression
+# Heart Disease UCI(Logistic-Regression)
 
 Used the Heart Disease Dataset from kaggle to predict if a person has heart Disease or not.
 https://www.kaggle.com/ronitf/heart-disease-uci
